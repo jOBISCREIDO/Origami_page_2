@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(60, 65, 70);
+}
+header{
+    background-color: rgb(44, 47, 51);
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0%;
+    left: 0%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: underline;
+    color: white;
+}
+img{
+    max-width: 200px;
+    max-height: 200px;
+}
+button{
+    background-color: rgb(44, 47, 51);
+    border-width: 0px;
+    margin-top: 2%;
+}
+li{
+    font-size: 14px;
+    margin-left: 2%;
+}
+footer {
+    margin-left: 0.4%;
+    margin-bottom: 0.2%;
+    position: fixed;
+    bottom:0;
+    left:0;
+    background-color: rgb(44, 47, 51);
+    color: white;
+    padding: 5px 908px;
+}
+h1{
+    margin-left: 45%;
+}
+/*----------------------------------------------------tag--------------------------------------------------*/
+
+#casinha{
+    margin-left: 0%;
+}
+#tl{ 
+    margin-left: 44.4%;
+}
+#tl2{ 
+    margin-left: 39.4%;
+    color: white;
+}
+#abt{ 
+    margin-left: 365%;
+    color: white;
+    cursor: pointer;
+}
+#link{
+    margin-left: 1850%;
+}
+
+/*---------------------------------------------------class-------------------------------------------------*/
+
+.left{
+    width: 211px;
+    color: white;
+    margin-top: 5%;
+    margin-left: 7%;
+    float: left;
+    border-style: solid;
+    border-color: rgb(44, 47, 51);
+    background-color: rgb(44, 47, 51);
+    border-width: 1px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.why{
+    margin-top: 0.6%;
+    padding: 10px;
+    color: white;
+    background-color: rgb(44, 47, 51);;
+}
